@@ -68,17 +68,19 @@ section {
     text-decoration: none;
 }
 
-.btn-accent {
+.btn-accent,
+.btn-white {
     background-color: black;
     color: orange ;
 }
 
-.btn-accent:hover {
+.btn-accent:hover,
+.btn-white:hover {
     background-color: whitesmoke;
     color: black; 
 }
 
-.btn-white {
+/* .btn-white {
     background-color: orange;
     color: black;
 }
@@ -86,7 +88,7 @@ section {
 .btn-white:hover {
     background-color: rgb(150, 207, 211);
     color: whitesmoke ;
-}
+} */
 
 
 
