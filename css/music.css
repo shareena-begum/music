@@ -66,17 +66,18 @@ section {
 .btn {
     padding: 15px;
     text-decoration: none;
+    border: 0.5px solid black;
 }
 
 .btn-accent,
 .btn-white {
-    background-color: black;
-    color: orange ;
+    background-color: rgb(240, 206, 152);
+    color: black ;
 }
 
 .btn-accent:hover,
 .btn-white:hover {
-    background-color: whitesmoke;
+    background-color: rgb(247, 137, 42);
     color: black; 
 }
 
